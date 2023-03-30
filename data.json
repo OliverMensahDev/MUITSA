@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ama Darkowah",
+        "course": "IT",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/IMG_6408.HEIC"
+    },
+    {
+        "id": 2,
+        "name": "Still Fresh",
+        "course": "Computer Science",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/IMG_6409.HEIC"
+    },
+    {
+        "id": 3,
+        "name": "Priscilla Ayim",
+        "course": "Database",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/IMG_6410.HEIC"
+    },
+    {
+        "id": 4,
+        "name": "Picture Error",
+        "course": "Cyber Security",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/IMG_6411.HEIC"
+    }
+]

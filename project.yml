@@ -1,0 +1,9 @@
+environment: 
+  DB_URL: ${DB_URL}
+parameters: {}
+packages:
+  - name: cloud
+    functions:
+      - name: getParticipants
+        runtime: 'nodejs:default'
+        
